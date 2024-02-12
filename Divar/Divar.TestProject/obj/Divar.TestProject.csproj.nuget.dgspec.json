@@ -1,0 +1,434 @@
+{
+  "format": 1,
+  "restore": {
+    "E:\\My Files\\Project\\Github\\divar-restfull\\C#\\Divar\\Divar.TestProject\\Divar.TestProject.csproj": {}
+  },
+  "projects": {
+    "E:\\My Files\\Project\\Github\\divar-restfull\\C#\\Divar\\Divar.Server\\Divar.Server.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\My Files\\Project\\Github\\divar-restfull\\C#\\Divar\\Divar.Server\\Divar.Server.csproj",
+        "projectName": "Divar.Server",
+        "projectPath": "E:\\My Files\\Project\\Github\\divar-restfull\\C#\\Divar\\Divar.Server\\Divar.Server.csproj",
+        "packagesPath": "C:\\Users\\yaran\\.nuget\\packages\\",
+        "outputPath": "E:\\My Files\\Project\\Github\\divar-restfull\\C#\\Divar\\Divar.Server\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\yaran\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "E:\\My Files\\Project\\Github\\divar-restfull\\C#\\Divar\\Models\\Models.csproj": {
+                "projectPath": "E:\\My Files\\Project\\Github\\divar-restfull\\C#\\Divar\\Models\\Models.csproj"
+              },
+              "E:\\My Files\\Project\\Github\\divar-restfull\\C#\\Divar\\Resources\\Resources.csproj": {
+                "projectPath": "E:\\My Files\\Project\\Github\\divar-restfull\\C#\\Divar\\Resources\\Resources.csproj"
+              },
+              "E:\\My Files\\Project\\Github\\divar-restfull\\C#\\Divar\\UnitOfWork\\UnitOfWork.csproj": {
+                "projectPath": "E:\\My Files\\Project\\Github\\divar-restfull\\C#\\Divar\\UnitOfWork\\UnitOfWork.csproj"
+              },
+              "E:\\My Files\\Project\\Github\\divar-restfull\\C#\\Divar\\ViewModels\\ViewModels.csproj": {
+                "projectPath": "E:\\My Files\\Project\\Github\\divar-restfull\\C#\\Divar\\ViewModels\\ViewModels.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Components.QuickGrid.EntityFrameworkAdapter": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "MongoDB.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.0-preview.1, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.5.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\My Files\\Project\\Github\\divar-restfull\\C#\\Divar\\Divar.TestProject\\Divar.TestProject.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\My Files\\Project\\Github\\divar-restfull\\C#\\Divar\\Divar.TestProject\\Divar.TestProject.csproj",
+        "projectName": "Divar.TestProject",
+        "projectPath": "E:\\My Files\\Project\\Github\\divar-restfull\\C#\\Divar\\Divar.TestProject\\Divar.TestProject.csproj",
+        "packagesPath": "C:\\Users\\yaran\\.nuget\\packages\\",
+        "outputPath": "E:\\My Files\\Project\\Github\\divar-restfull\\C#\\Divar\\Divar.TestProject\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\yaran\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "E:\\My Files\\Project\\Github\\divar-restfull\\C#\\Divar\\Divar.Server\\Divar.Server.csproj": {
+                "projectPath": "E:\\My Files\\Project\\Github\\divar-restfull\\C#\\Divar\\Divar.Server\\Divar.Server.csproj"
+              },
+              "E:\\My Files\\Project\\Github\\divar-restfull\\C#\\Divar\\Models\\Models.csproj": {
+                "projectPath": "E:\\My Files\\Project\\Github\\divar-restfull\\C#\\Divar\\Models\\Models.csproj"
+              },
+              "E:\\My Files\\Project\\Github\\divar-restfull\\C#\\Divar\\UnitOfWork\\UnitOfWork.csproj": {
+                "projectPath": "E:\\My Files\\Project\\Github\\divar-restfull\\C#\\Divar\\UnitOfWork\\UnitOfWork.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[17.9.0-preview-23577-04, )"
+            },
+            "coverlet.collector": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "xunit": {
+              "target": "Package",
+              "version": "[2.6.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\My Files\\Project\\Github\\divar-restfull\\C#\\Divar\\Models\\Models.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\My Files\\Project\\Github\\divar-restfull\\C#\\Divar\\Models\\Models.csproj",
+        "projectName": "Models",
+        "projectPath": "E:\\My Files\\Project\\Github\\divar-restfull\\C#\\Divar\\Models\\Models.csproj",
+        "packagesPath": "C:\\Users\\yaran\\.nuget\\packages\\",
+        "outputPath": "E:\\My Files\\Project\\Github\\divar-restfull\\C#\\Divar\\Models\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\yaran\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "E:\\My Files\\Project\\Github\\divar-restfull\\C#\\Divar\\Resources\\Resources.csproj": {
+                "projectPath": "E:\\My Files\\Project\\Github\\divar-restfull\\C#\\Divar\\Resources\\Resources.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "MongoDB.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.0-preview.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\My Files\\Project\\Github\\divar-restfull\\C#\\Divar\\Resources\\Resources.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\My Files\\Project\\Github\\divar-restfull\\C#\\Divar\\Resources\\Resources.csproj",
+        "projectName": "Resources",
+        "projectPath": "E:\\My Files\\Project\\Github\\divar-restfull\\C#\\Divar\\Resources\\Resources.csproj",
+        "packagesPath": "C:\\Users\\yaran\\.nuget\\packages\\",
+        "outputPath": "E:\\My Files\\Project\\Github\\divar-restfull\\C#\\Divar\\Resources\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\yaran\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\My Files\\Project\\Github\\divar-restfull\\C#\\Divar\\UnitOfWork\\UnitOfWork.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\My Files\\Project\\Github\\divar-restfull\\C#\\Divar\\UnitOfWork\\UnitOfWork.csproj",
+        "projectName": "UnitOfWork",
+        "projectPath": "E:\\My Files\\Project\\Github\\divar-restfull\\C#\\Divar\\UnitOfWork\\UnitOfWork.csproj",
+        "packagesPath": "C:\\Users\\yaran\\.nuget\\packages\\",
+        "outputPath": "E:\\My Files\\Project\\Github\\divar-restfull\\C#\\Divar\\UnitOfWork\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\yaran\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "E:\\My Files\\Project\\Github\\divar-restfull\\C#\\Divar\\Models\\Models.csproj": {
+                "projectPath": "E:\\My Files\\Project\\Github\\divar-restfull\\C#\\Divar\\Models\\Models.csproj"
+              },
+              "E:\\My Files\\Project\\Github\\divar-restfull\\C#\\Divar\\Resources\\Resources.csproj": {
+                "projectPath": "E:\\My Files\\Project\\Github\\divar-restfull\\C#\\Divar\\Resources\\Resources.csproj"
+              },
+              "E:\\My Files\\Project\\Github\\divar-restfull\\C#\\Divar\\ViewModels\\ViewModels.csproj": {
+                "projectPath": "E:\\My Files\\Project\\Github\\divar-restfull\\C#\\Divar\\ViewModels\\ViewModels.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "MongoDB.Bson": {
+              "target": "Package",
+              "version": "[2.22.0, )"
+            },
+            "MongoDB.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.0-preview.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\My Files\\Project\\Github\\divar-restfull\\C#\\Divar\\ViewModels\\ViewModels.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\My Files\\Project\\Github\\divar-restfull\\C#\\Divar\\ViewModels\\ViewModels.csproj",
+        "projectName": "ViewModels",
+        "projectPath": "E:\\My Files\\Project\\Github\\divar-restfull\\C#\\Divar\\ViewModels\\ViewModels.csproj",
+        "packagesPath": "C:\\Users\\yaran\\.nuget\\packages\\",
+        "outputPath": "E:\\My Files\\Project\\Github\\divar-restfull\\C#\\Divar\\ViewModels\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\yaran\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

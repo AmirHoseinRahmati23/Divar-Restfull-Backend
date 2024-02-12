@@ -1,0 +1,16 @@
+E:\My Files\Project\Github\divar-restfull\C#\Divar\Resources\bin\Debug\net8.0\Resources.deps.json
+E:\My Files\Project\Github\divar-restfull\C#\Divar\Resources\bin\Debug\net8.0\Resources.dll
+E:\My Files\Project\Github\divar-restfull\C#\Divar\Resources\bin\Debug\net8.0\Resources.pdb
+E:\My Files\Project\Github\divar-restfull\C#\Divar\Resources\obj\Debug\net8.0\Resources.DataDictionary.resources
+E:\My Files\Project\Github\divar-restfull\C#\Divar\Resources\obj\Debug\net8.0\Resources.ErrorMessages.resources
+E:\My Files\Project\Github\divar-restfull\C#\Divar\Resources\obj\Debug\net8.0\Resources.csproj.GenerateResource.cache
+E:\My Files\Project\Github\divar-restfull\C#\Divar\Resources\obj\Debug\net8.0\Resources.GeneratedMSBuildEditorConfig.editorconfig
+E:\My Files\Project\Github\divar-restfull\C#\Divar\Resources\obj\Debug\net8.0\Resources.AssemblyInfoInputs.cache
+E:\My Files\Project\Github\divar-restfull\C#\Divar\Resources\obj\Debug\net8.0\Resources.AssemblyInfo.cs
+E:\My Files\Project\Github\divar-restfull\C#\Divar\Resources\obj\Debug\net8.0\Resources.csproj.CoreCompileInputs.cache
+E:\My Files\Project\Github\divar-restfull\C#\Divar\Resources\obj\Debug\net8.0\Resources.sourcelink.json
+E:\My Files\Project\Github\divar-restfull\C#\Divar\Resources\obj\Debug\net8.0\Resources.dll
+E:\My Files\Project\Github\divar-restfull\C#\Divar\Resources\obj\Debug\net8.0\refint\Resources.dll
+E:\My Files\Project\Github\divar-restfull\C#\Divar\Resources\obj\Debug\net8.0\Resources.pdb
+E:\My Files\Project\Github\divar-restfull\C#\Divar\Resources\obj\Debug\net8.0\ref\Resources.dll
+E:\My Files\Project\Github\divar-restfull\C#\Divar\Resources\obj\Debug\net8.0\Resources.CollectionNames.resources

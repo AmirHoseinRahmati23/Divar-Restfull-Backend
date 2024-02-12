@@ -1,0 +1,19 @@
+﻿services.AddTransient<IUnitOfWork, UnitOfWork>(sp =>
+			{
+				Options options =
+					new Options
+					{
+						Provider =
+							(Enums.Provider)
+							Convert.ToInt32(Configuration.GetSection(key: "databaseProvider").Value),
+
+						//using Microsoft.EntityFrameworkCore;
+						//ConnectionString =
+						//	Configuration.GetConnectionString().GetSection(key: "MyConnectionString").Value,
+
+						ConnectionString =
+							Configuration.GetSection(key: "ConnectionStrings").GetSection(key: "MyConnectionString").Value,
+					};
+
+				return new UnitOfWork(options: options);
+			});

@@ -1,0 +1,6 @@
+@Divar.ServerSide_HostAddress = http://localhost:5204
+
+GET {{Divar.ServerSide_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

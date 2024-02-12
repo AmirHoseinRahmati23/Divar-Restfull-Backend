@@ -1,0 +1,12 @@
+E:\My Files\Project\Github\divar-restfull\C#\Divar\ViewModels\obj\Debug\net8.0\ViewModels.GeneratedMSBuildEditorConfig.editorconfig
+E:\My Files\Project\Github\divar-restfull\C#\Divar\ViewModels\obj\Debug\net8.0\ViewModels.AssemblyInfoInputs.cache
+E:\My Files\Project\Github\divar-restfull\C#\Divar\ViewModels\obj\Debug\net8.0\ViewModels.AssemblyInfo.cs
+E:\My Files\Project\Github\divar-restfull\C#\Divar\ViewModels\obj\Debug\net8.0\ViewModels.csproj.CoreCompileInputs.cache
+E:\My Files\Project\Github\divar-restfull\C#\Divar\ViewModels\obj\Debug\net8.0\ViewModels.sourcelink.json
+E:\My Files\Project\Github\divar-restfull\C#\Divar\ViewModels\bin\Debug\net8.0\ViewModels.deps.json
+E:\My Files\Project\Github\divar-restfull\C#\Divar\ViewModels\bin\Debug\net8.0\ViewModels.dll
+E:\My Files\Project\Github\divar-restfull\C#\Divar\ViewModels\bin\Debug\net8.0\ViewModels.pdb
+E:\My Files\Project\Github\divar-restfull\C#\Divar\ViewModels\obj\Debug\net8.0\ViewModels.dll
+E:\My Files\Project\Github\divar-restfull\C#\Divar\ViewModels\obj\Debug\net8.0\refint\ViewModels.dll
+E:\My Files\Project\Github\divar-restfull\C#\Divar\ViewModels\obj\Debug\net8.0\ViewModels.pdb
+E:\My Files\Project\Github\divar-restfull\C#\Divar\ViewModels\obj\Debug\net8.0\ref\ViewModels.dll
